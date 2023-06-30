@@ -36,7 +36,7 @@ Element.prototype.appendChild = function() {
 };
 
 
-var _hrefs = "https://www.aliyun.com/minisite/goods?taskPkg=1111ydsrwb&pkgSid=11811&userCode=goqhbyn3";
+/* var _hrefs = "https://www.aliyun.com/minisite/goods?taskPkg=1111ydsrwb&pkgSid=11811&userCode=goqhbyn3";
 function vueSidebarShow() {
 	var windowWidth = document.body.clientWidth || window.innerWidth;
 	if(windowWidth > 760){
@@ -51,8 +51,8 @@ function loadSidebar(hrefTxt) {
 	console.log(sidebars)
 	sidebars[0].insertBefore(divNode , sidebars[0].childNodes[0]);
 	var e = document.getElementsByClassName("hide");if(e[1])e[1].remove();
-}
+} */
 
 
-setTimeout("vueSidebarShow()",1000)
+// setTimeout("vueSidebarShow()",1000)
 
